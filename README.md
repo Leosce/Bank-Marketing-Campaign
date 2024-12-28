@@ -27,12 +27,6 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 - Statistical Analysis
 - Python Programming (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
-## How to Run the Project
-1. Clone the repository: `git clone [repository link]`
-2. Navigate to the project directory: `cd bank-marketing-campaign-analysis`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the analysis script: `python analysis.py`
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
