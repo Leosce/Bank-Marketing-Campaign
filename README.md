@@ -37,5 +37,5 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-- Notice the code has a lot of repeated code, this was done mainly for illustration purposes, and will be modified later for clearness and cleanliness.
+- The issue of repeated code has been addressed, and some issues in model evaluation and fitting have been fixed.
 - The dataset used in this project is provided by [Moro et al., 2014](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
