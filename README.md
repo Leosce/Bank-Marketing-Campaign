@@ -19,7 +19,10 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 - Provided recommendations for improving future marketing strategies based on data-driven insights.
 
 ## Requirements
-- The notebook requires installing the category encoders package ```python !pip install category_encoders
+- The notebook requires installing the category encoders package
+```bash
+!pip install category_encoders
+```
 - this requirement is already achieved on the first line of code.
   
 ## Skills Gained
