@@ -20,7 +20,7 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 
 ## Requirements
 - The notebook requires installing the category encoders package
-```bash
+```python
 !pip install category_encoders
 ```
 - this requirement is already achieved on the first line of code.
