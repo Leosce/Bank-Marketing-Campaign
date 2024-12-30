@@ -18,6 +18,10 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 - Developed predictive models with high accuracy to forecast campaign outcomes.
 - Provided recommendations for improving future marketing strategies based on data-driven insights.
 
+## Requirements
+- The notebook requires installing the category encoders package ```python !pip install category_encoders
+- this requirement is already achieved on the first line of code.
+  
 ## Skills Gained
 - Data Cleaning and Preprocessing
 - Feature Engineering
