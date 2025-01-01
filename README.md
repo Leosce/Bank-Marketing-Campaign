@@ -12,7 +12,8 @@ The dataset used in this project is the Bank Marketing Dataset, which contains i
 3. **Exploratory Data Analysis (EDA)**: Conducted EDA to uncover patterns and trends that could inform future marketing strategies.
 4. **Model Development**: Applied machine learning models to predict the success of marketing campaigns and evaluated their performance. the file includes a lot of machine learning models to compare between the results of each model and showcase that the best model to apply is the RandomForest, as it works well with non-linear relationship and does better than DecisionTree as it's an ensemle learning method. 
 5. **Results Interpretation**: Interpreted the results to provide actionable insights and recommendations for optimizing future marketing efforts.
-
+6. **Compared Evaluations**: Visually Compared between all of the models' evaluations to give more insight about how different models evaluate differently.
+   
 ## Key Findings
 - Identified key features that significantly impact the success of marketing campaigns.
 - Developed predictive models with high accuracy to forecast campaign outcomes.
